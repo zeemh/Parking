@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-jua: Jua;
+
+  /* font sizes */
+  --font-size-xl: 20px;
+  --font-size-13xl: 32px;
+  --font-size-mini: 15px;
+  --font-size-3xs: 10px;
+  --font-size-11xl: 30px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-blueviolet-100: #9955ff;
+  --color-blueviolet-200: #9555ff;
+  --color-black: #000;
+
+  /* border radiuses */
+  --br-smi: 13px;
+}
